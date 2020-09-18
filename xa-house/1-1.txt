@@ -1,0 +1,64 @@
+<html xmlns="http://www.w3.org/1999/xhtml" style=""><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><link href="http://zjj.xa.gov.cn/images/favicon.ico" rel="shortcut icon" type="image/x-icon"><title>
+	西安市商品住房意向登记平台--西安市住房和城乡建设局|西安市轨道交通建设办公室
+</title>
+</head>
+<body>
+    <form method="post" action="./xmgs.aspx?state=1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSubmit')" id="form1">
+        <div class="content">
+            <div class="bgwhite  mag_tb">
+                <div class=" mag_b20 pad_20">
+                    
+                    <div>
+                        <div class="xmgsList">
+                            
+                                    <div class="xmgsItem">
+                                        <div class="fR xmgsBox bs_b pad_20 prel">
+                                             <div class="size21 prel mag_b10"><a href="https://ditu.amap.com/search?query= 高科·绿水东城六期3# &amp;city=610100&amp;geoobj=108.978198%7C34.145663%7C108.984241%7C34.148238&amp;zoom=5" class="icon-map" target="_blank">测试a内容</a><span class="isInlineblock  textOverflow vm" title=" 高科·绿水东城六期3#" style="max-width:315px;"> 高科·绿水东城六期3# </span>
+                                                 <img style="vertical-align:bottom;margin-bottom:2px;" src="resources/images/zzdj.png"> 
+                                                 <span class="vm mag_l1 ">
+                                                      <span class="color_e34156 vm mag_l1 size16 isInlineblock mag_b3" onclick="goUrl('http://zjj.xa.gov.cn/ygsf/xmys.aspx?yhxmbh=0000001509')"><img class=" vm" src="resources/images/xmgkIcon.png"><span class="color_e34156 vm size16 isInlineblock mag_b3">项目概况</span> </span>
+                                                     <span class="color_e34156 vm mag_l1 size16 isInlineblock mag_b3" onclick="goUrl('http://zfwsbg.xa.gov.cn/EnterpriseCredit/check.html?type=go&amp;route=enterprise&amp;dwbh=01332')" style="display:">
+                                                         <img class=" vm" src="resources/images/cxxx.png">
+                                                         <span class="color_e34156 vm size16 isInlineblock mag_b3">诚信信息</span>
+                                                     </span>
+                                                      <span class="color_e34156 vm mag_l1 size16 isInlineblock mag_b3" onclick="layer.open({title: false,type: 2,area: ['950px', '675px'],skin: 'layui-layer-rim',content: 'xmxq.aspx?yxbh=0000001509',scrollbar: false});">
+                                                         <img class=" vm" src="resources/images/gg.png">
+                                                         <span class="color_e34156 vm size16 isInlineblock mag_b3">销售公告</span>
+                                                     </span>
+                                                 <span class="color_e34156 vm mag_l1 size16 isInlineblock mag_b3" onclick="layer.open({title: false,type: 2,area: ['840px', '622px'],skin: 'layui-layer-rim',content: 'xmtj.aspx?yxbh=0000001509',scrollbar: false});">  <img class="mag_r5 vm" src="resources/images/tj.png"><span class="vm isInlineblock mag_b3">登记情况</span></span>  
+                                                   </span> 
+                                                   
+                                                 <span class="vm mag_l1" onclick="layer.open({title: false,type: 2,area: ['950px', '650px'],skin: 'layui-layer-rim',content: 'xmjd.aspx?yxbh=0000001509',scrollbar: false});"><img class="mag_r5 vm" src="resources/images/jd.png"><span class="color_e34156 vm size16 isInlineblock mag_b3">进度</span></span>
+                                                  
+                                                 <div class="pab right_110 top_8 size18 fontGeorgia">
+                                                    <span class="color_e34156" style="position:relative;bottom:4px;"><img class="vm mag_r10" src="resources/images/phone.png">029-83591111</span>    
+                                                </div>                                             
+                                             </div>
+                                            <table class=" w_100">
+                                                <tbody><tr height="30">
+                                                    <td width="529" align="left"><span class="color_999999 vm">开发企业名称：</span><span title="西安高科东城置业有限公司" class="vm isInlineblock max_w426 textOverflow">西安高科东城置业有限公司</span></td>
+                                                    <td width="529" align="left"><span class="color_999999 vm">意向登记时间：</span><span class="vm max_w353 color_e34156">2020-04-22 08:00至 2020-04-24 18:00</span></td>
+                                                </tr>
+                                                <tr height="30">
+                                                    <td width="529" align="left"><span class="color_999999 vm">预（现）售楼幢号：</span><span title="3(全部可售房源共197套)" class="vm isInlineblock wrap max_w426">3<span class="mag_l5">(全部可售房源共<font class="color_e34156">197</font>套)</span></span></td>
+                                                    <td width="529" align="left"><span class="color_999999 vm">预（现）售证号：</span><span title="2020077" class="vm isInlineblock max_w353 wrap">2020077</span></td>
+                                                </tr>
+                                                 <tr height="30">
+                                                    <td width="529" align="left"><span class="color_999999 vm">现场接受资料时间：</span><span class="vm max_w426">2020-04-22 09:00至 2020-04-25 18:00</span></td>
+                                                    <td width="529" align="left"><span class="color_999999 vm">现场接受资料地点：</span><div class="vm isInlineblock wrap max_w426" style="word-break:break-all;word-wrap:break-word;">详见销售公告</div></td>
+                                                </tr>
+                                            </tbody></table>
+                                            
+                                               <div class="pab right_5 top_20"><div class="lh_35 size16 tc bgE05262 color_white  djzt "><span onclick="time_range('08','0000001509','00',$('#hidDayDjsj').val());">我要登记</span></div><div class="djztb bd_red">距结束还剩57:17</div></div>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+</form>
+
+</body></html>
